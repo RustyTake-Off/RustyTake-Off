@@ -30,5 +30,5 @@
 ![Bar](./images/bar.png)
 
 <p align="right">
-  <a href="https://excalidraw.com/"><img width="32px" alt="Excalidraw" title="Excalidraw" src="./images/excalidraw_logo.png"/></a>
+  <a href="https://excalidraw.com/"><img width="32px" alt="Excalidraw" src="./images/excalidraw_logo.png"/></a>
 </p>
