@@ -9,7 +9,7 @@
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&icon_color=3cff00&border_color=be4d25&bg_color=0d1117&cache_seconds=86400&border_radius=22&show_icons=true&count_private=true&custom_title=RustyTake-Off%27s%20GitHub%20Stats&ring_color=3cff00#gh-dark-mode-only" /></a>
-<a href="https://github.com/anuraghazra/convoychat"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=86400&border_radius=22&layout=compact&langs_count=6#gh-dark-mode-only" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=86400&border_radius=22&layout=compact&langs_count=6#gh-dark-mode-only" /></a>
 </div>
 
 ![Bar brain](./images/bar_brain.png)
