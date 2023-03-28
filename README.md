@@ -22,6 +22,6 @@
 
 ![Bar brain](./images/bar_brain.png)
 
-<div>
+<div align="right">
 <a href="https://excalidraw.com/"><img style="width: 32px; height: 32px; display: block;" src="./images/Excalidraw_Logo.png" /></a>
 </div>
