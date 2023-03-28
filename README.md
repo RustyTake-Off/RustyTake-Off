@@ -15,9 +15,9 @@
 ![Bar brain](./images/bar_brain.png)
 
 <div>
-<a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&repo=projects&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=86400&border_radius=22&show_owner=true" /></a>
-<a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&repo=my-configs&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=86400&border_radius=22&show_owner=true" /></a>
-<a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&repo=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=86400&border_radius=22&show_owner=true" /></a>
+<a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=86400&border_radius=22&show_owner=true&repo=projects" /></a>
+<a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=86400&border_radius=22&show_owner=true&repo=my-configs" /></a>
+<a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=86400&border_radius=22&show_owner=true&repo=RustyTake-Off" /></a>
 </div>
 
 ![Bar brain](./images/bar_brain.png)
