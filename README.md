@@ -19,6 +19,10 @@
 <a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=86400&border_radius=22&layout=compact&langs_count=6#gh-dark-mode-only" /></a>
 </div>
 
+<div align=center>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RustyTake-Off&border_radius=22&date_format=j%2Fn%5B%2FY%5D&mode=weekly&type=png&background=0D1117&border=BE4D25&stroke=BE4D25&ring=35FF00&fire=FF0000&currStreakNum=FFFFFF&sideNums=35FF00&currStreakLabel=BE4D25&sideLabels=BE4D25&dates=FFFFFF" /></a>
+</div>
+
 ![Bar](./images/bar.png)
 
 <div>
