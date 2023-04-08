@@ -31,7 +31,7 @@
 <!-- Stats section -->
 
 <div align=center>
-<a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&icon_color=3cff00&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&show_icons=true&count_private=true&custom_title=RustyTake-Off%27s%20GitHub%20Stats&ring_color=3cff00" /></a>
+<a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&icon_color=3cff00&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&show_icons=true&include_all_commits=true&count_private=true&custom_title=RustyTake-Off%27s%20GitHub%20Stats&ring_color=3cff00" /></a>
 <a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&layout=compact&langs_count=6" /></a>
 </div>
 
