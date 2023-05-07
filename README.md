@@ -16,15 +16,14 @@
   &#8287;
 </div>
 
-<!-- ![Bar](./images/bar.png) -->
+![Bar](./images/bar.png)
 
 <!-- Pinned repositories section -->
 
-<!-- <div align=center>
+<div align=center>
 <a href="https://github.com/RustyTake-Off/projects"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&show_owner=true&repo=projects" /></a>
-<a href="https://github.com/RustyTake-Off/dotfiles"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&show_owner=true&repo=dotfiles" /></a>
 <a href="https://github.com/RustyTake-Off/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&show_owner=true&repo=RustyTake-Off" /></a>
-</div> -->
+</div>
 
 ![Bar](./images/bar.png)
 
