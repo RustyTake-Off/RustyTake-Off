@@ -20,22 +20,23 @@
 
 <!-- Pinned repositories section -->
 
-<div align=center>
+<!-- <div align=center>
 <a href="https://github.com/RustyTake-Off/projects"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&show_owner=true&repo=projects" /></a>
 <a href="https://github.com/RustyTake-Off/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&show_owner=true&repo=RustyTake-Off" /></a>
-</div>
+</div> -->
 
-![Bar](./images/bar.png)
+<!-- ![Bar](./images/bar.png) -->
 
 <!-- Stats section -->
 
-<div align=center>
+<!-- <div align=center>
 <a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&icon_color=3cff00&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&show_icons=true&include_all_commits=true&count_private=true&custom_title=RustyTake-Off%27s%20GitHub%20Stats&ring_color=3cff00" /></a>
 <a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&layout=compact&langs_count=6" /></a>
-</div>
+</div> -->
 
 <div align=center>
-<a href="https://github.com/RustyTake-Off"><img src="https://github-readme-streak-stats.herokuapp.com?user=RustyTake-Off&border_radius=22&date_format=j%2Fn%5B%2FY%5D&mode=daily&type=png&background=0D1117&border=BE4D25&stroke=BE4D25&ring=35FF00&fire=FF0000&currStreakNum=FFFFFF&sideNums=35FF00&currStreakLabel=BE4D25&sideLabels=BE4D25&dates=FFFFFF" /></a>
+<a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RustyTake-Off&border_radius=22&date_format=j%2Fn%5B%2FY%5D&mode=daily&type=png&background=0D1117&border=BE4D25&stroke=BE4D25&ring=35FF00&fire=FF0000&currStreakNum=FFFFFF&sideNums=35FF00&currStreakLabel=BE4D25&sideLabels=BE4D25&dates=FFFFFF" /></a>
+<a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&layout=compact&langs_count=6" /></a>
 </div>
 
 <!-- Footer section -->
