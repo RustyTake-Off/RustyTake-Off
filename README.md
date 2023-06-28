@@ -12,7 +12,7 @@
 <!-- Hack for a thin line  -->
 ##
 
-## 🧰 Tools im working with
+<!-- ## 🧰 Tools im working with
 
 <div style="display: flex; height: 80px">
   <div style="flex: 1; text-align: center">
@@ -23,7 +23,7 @@
   </div>
 </div>
 
-##
+## -->
 
 <!-- .statistics -->
 
