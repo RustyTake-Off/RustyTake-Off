@@ -17,6 +17,7 @@
   &#8287;
 </div>
 
+&#8287;
 ![Bar](./docs/media/bar.png)
 
 <!-- .statistics -->
@@ -45,8 +46,9 @@
   &#8287;
 </div>
 
+&#8287;
 ![Bar](./docs/media/bar.png)
 
 <div align="right">
-  <a href="https://excalidraw.com/"><img higth="32px" width="32px" alt="Excalidraw" src="./docs/media/excalidraw-logo.png"/></a>
+  <a href="https://excalidraw.com/"><img higth="34px" width="34px" alt="Excalidraw" src="./docs/media/excalidraw-logo.png"/></a>
 </div>
