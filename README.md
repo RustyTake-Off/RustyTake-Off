@@ -34,10 +34,11 @@
 &#8287;
 ![Bar](./docs/media/bar.png)
 
-<div style="font-size: 22px" align="center">
-  ToolBox
+<div align="center">
+  <p style="font-size: 22px">
+    ToolBox
+  </p>
 </div>
-&#8287;
 
 <div align="center">
   <a href="https://azure.microsoft.com/"><img width="32px" height="32px" alt="Azure" src="./docs/media/azure-logo.png"/></a>
