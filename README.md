@@ -34,16 +34,17 @@
 &#8287;
 ![Bar](./docs/media/bar.png)
 
+<div style="font-size: 22px" align="center">
+  ToolBox
+</div>
+&#8287;
+
 <div align="center">
   <a href="https://azure.microsoft.com/"><img width="32px" height="32px" alt="Azure" src="./docs/media/azure-logo.png"/></a>
   &#8287;
-  &#8287;
   <a href="https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/"><img width="36px" height="38px" alt="Bicep" src="./docs/media/bicep-logo.png"/></a>
   &#8287;
-  &#8287;
   <a href="https://www.terraform.io/"><img width="36px" height="38px" alt="Terraform" src="./docs/media/terraform-logo.png"/></a>
-  &#8287;
-  &#8287;
 </div>
 
 &#8287;
