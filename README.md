@@ -14,7 +14,6 @@
   <a href="https://github.com/RustyTake-Off"><img width="32px" height="32px" alt="GitHub" src="./docs/media/github-logo.png"/></a>
   &#8287;
   <a href="https://www.linkedin.com/in/maciejzeman"><img width="32px" height="36px" alt="LinkedIn" src="./docs/media/linkedin-logo.png"/></a>
-  &#8287;
 </div>
 
 &#8287;
@@ -26,16 +25,15 @@
 <a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=RustyTake-Off&border_radius=22&date_format=j%2Fn%5B%2FY%5D&mode=daily&type=png&background=0D1117&border=BE4D25&stroke=BE4D25&ring=35FF00&fire=FF0000&currStreakNum=FFFFFF&sideNums=35FF00&currStreakLabel=BE4D25&sideLabels=BE4D25&dates=FFFFFF" /></a>
   &#8287;
 <a href="https://github.com/RustyTake-Off"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyTake-Off&title_color=be4d25&text_color=f9f3f3&border_color=be4d25&bg_color=0d1117&cache_seconds=28800&border_radius=22&layout=compact&langs_count=6" /></a>
-  &#8287;
 </div>
+&#8287;
 
 <!-- .footer -->
 
-&#8287;
 ![Bar](./docs/media/bar.png)
 
 <div align="center">
-  <p style="font-size: 22px">
+  <p>
     ToolBox
   </p>
 </div>
