@@ -33,7 +33,7 @@
 &#8287;
 ![Bar](./docs/media/bar.png)
 
-<div style="height: 100px; display: flex; justify-content: center; align-items: center;">
+<div align="center">
   <a href="https://azure.microsoft.com/"><img width="32px" height="32px" alt="Azure" src="./docs/media/azure-logo.png"/></a>
   &#8287;
   &#8287;
