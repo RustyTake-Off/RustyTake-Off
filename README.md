@@ -39,7 +39,7 @@
 
 <!-- .footer -->
 
-<div align=left>
-  <a href="https://github.com/RustyTake-Off/RustyTake-Off"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" align="left" width="25" height="25" /></a>
+<div>
+  <a href="https://github.com/RustyTake-Off/RustyTake-Off"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" align="center" width="25" height="25" /></a>
   <a href="https://github.com/RustyTake-Off/RustyTake-Off">@RustyTake-Off</a>
 </div>
