@@ -18,13 +18,13 @@
 
 ### 🧰🛠️ Toolbox
 
-<img alt="Git" width="42px" style="padding-right:10px;" src="docs/media/git.svg" />
-<img alt="GitHub" width="42px" style="padding-right:10px;" src="docs/media/github.svg" />
-<img alt="Linux" width="42px" style="padding-right:10px;" src="docs/media/linux.svg" />
-<img alt="Bash" width="42px" style="padding-right:10px;" src="docs/media/bash.svg" />
-<img alt="PowerShell" width="42px" style="padding-right:10px;" src="docs/media/powershell.svg" />
-<img alt="Azure" width="42px" style="padding-right:10px;" src="docs/media/azure.svg" />
-<img alt="Terraform" width="42px" src="docs/media/terraform.svg" />
+<img align="center" alt="Git" width="42px" style="padding-right:10px;" src="docs/media/git.svg" />
+<img align="center" alt="GitHub" width="42px" style="padding-right:10px;" src="docs/media/github.svg" />
+<img align="center" alt="Linux" width="42px" style="padding-right:10px;" src="docs/media/linux.svg" />
+<img align="center" alt="Bash" width="42px" style="padding-right:10px;" src="docs/media/bash.svg" />
+<img align="center" alt="PowerShell" width="42px" style="padding-right:10px;" src="docs/media/powershell.svg" />
+<img align="center" alt="Azure" width="42px" style="padding-right:10px;" src="docs/media/azure.svg" />
+<img align="center" alt="Terraform" width="42px" src="docs/media/terraform.svg" />
 
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,azure,terraform" />
