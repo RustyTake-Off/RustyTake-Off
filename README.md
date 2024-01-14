@@ -38,12 +38,12 @@
 ### 📊 Stats
 
 <div align=center>
-  <table border="0">
+  <table>
     <tr>
-      <td>
+      <td style="border: none">
         <img alt="Commit Streak" src="https://streak-stats.demolab.com?user=RustyTake-Off&border_radius=22&date_format=j%2Fn%5B%2FY%5D&mode=daily&type=svg&background=0D1117&border=30363D&stroke=BE4D25&ring=35FF00&fire=FF0000&currStreakNum=FFFFFF&sideNums=35FF00&currStreakLabel=BE4D25&sideLabels=BE4D25&dates=FFFFFF" />
       </td>
-      <td>
+      <td style="border: none">
         <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RustyTake-Off&title_color=BE4D25&text_color=F9F3F3&border_color=30363D&bg_color=0D1117&cache_seconds=28800&border_radius=22&layout=compact&langs_count=6" />
       </td>
     </tr>
