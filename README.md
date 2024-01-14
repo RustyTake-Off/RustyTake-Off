@@ -9,7 +9,7 @@
 </div>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/maciejzeman"><img alt="LinkedIn" width="32px" src="./docs/media/linkedin.svg" /></a>
+  <a href="https://www.linkedin.com/in/maciejzeman"><img alt="LinkedIn" width="32px" style="padding-right:10px;" src="./docs/media/linkedin.svg" /></a>
   <a href="https://github.com/RustyTake-Off"><img alt="GitHub" width="32px" src="./docs/media/github.svg" /></a>
 </div>
 
@@ -38,7 +38,7 @@
 ### 📊 Stats
 
 <div align=center>
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img alt="Commit Streak" src="https://streak-stats.demolab.com?user=RustyTake-Off&border_radius=22&date_format=j%2Fn%5B%2FY%5D&mode=daily&type=svg&background=0D1117&border=30363D&stroke=BE4D25&ring=35FF00&fire=FF0000&currStreakNum=FFFFFF&sideNums=35FF00&currStreakLabel=BE4D25&sideLabels=BE4D25&dates=FFFFFF" />
