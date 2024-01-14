@@ -25,6 +25,7 @@
 <img align="center" alt="PowerShell" width="42px" style="padding-right:10px;" src="docs/media/powershell.svg" />
 <img align="center" alt="Azure" width="42px" style="padding-right:10px;" src="docs/media/azure.svg" />
 <img align="center" alt="Terraform" width="42px" src="docs/media/terraform.svg" />
+<br />
 
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,bash,powershell,azure,terraform" />
