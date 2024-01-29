@@ -25,7 +25,7 @@
   <img alt="PowerShell" width="42px" style="padding-right:10px" src="docs/media/powershell.svg" />
   <img alt="Azure" width="42px" style="padding-right:10px" src="docs/media/azure.svg" />
   <img alt="Bicep" width="42px" style="padding-right:10px" src="docs/media/bicep.svg" />
-  <img alt="Terraform" width="42px" src="docs/media/terraform.svg" />
+  <img title="Terraform" alt="Terraform" onclick="return false" width="42px"src="docs/media/terraform.svg" />
 </div>
 
 <!-- <div align="center">
