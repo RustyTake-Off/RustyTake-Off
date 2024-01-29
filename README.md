@@ -18,14 +18,14 @@
 
 ### 🧰🛠️ Toolbox
 <div align="center">
-  <img alt="Git" width="42px" style="padding-right:10px" src="docs/media/git.svg" />
-  <img alt="GitHub" width="42px" style="padding-right:10px" src="docs/media/github.svg" />
-  <img alt="Linux" width="42px" style="padding-right:10px" src="docs/media/linux.svg" />
-  <img alt="Bash" width="42px" style="padding-right:10px" src="docs/media/bash.svg" />
-  <img alt="PowerShell" width="42px" style="padding-right:10px" src="docs/media/powershell.svg" />
-  <img alt="Azure" width="42px" style="padding-right:10px" src="docs/media/azure.svg" />
-  <img alt="Bicep" width="42px" style="padding-right:10px" src="docs/media/bicep.svg" />
-  <img title="Terraform" alt="Terraform" onclick="return false" width="42px"src="docs/media/terraform.svg" />
+  <img title="Git" alt="Git" width="42px" style="padding-right:10px" src="docs/media/git.svg" />
+  <img title="GitHub" alt="GitHub" width="42px" style="padding-right:10px" src="docs/media/github.svg" />
+  <img title="Linux" alt="Linux" width="42px" style="padding-right:10px" src="docs/media/linux.svg" />
+  <img title="Bash" alt="Bash" width="42px" style="padding-right:10px" src="docs/media/bash.svg" />
+  <img title="PowerShell" alt="PowerShell" width="42px" style="padding-right:10px" src="docs/media/powershell.svg" />
+  <img title="Azure" alt="Azure" width="42px" style="padding-right:10px" src="docs/media/azure.svg" />
+  <img title="Bicep" alt="Bicep" width="42px" style="padding-right:10px" src="docs/media/bicep.svg" />
+  <img title="Terraform" alt="Terraform" width="42px" src="docs/media/terraform.svg" />
 </div>
 
 <!-- <div align="center">
