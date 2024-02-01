@@ -16,6 +16,7 @@
 <!-- .statistics -->
 
 ### 🧰🛠️ Toolbox
+
 <div align="center">
   <a href="#"><img title="Git" alt="Git" width="42px" style="padding-right:10px" src="docs/media/git.svg" /></a>
   <a href="#"><img title="GitHub" alt="GitHub" width="42px" style="padding-right:10px" src="docs/media/github.svg" /></a>
@@ -49,6 +50,6 @@
 <!-- .footer -->
 
 <div align="left">
-  <a href="#"><img alt="Glowing Star" align="center" width="24" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" /></a>
+  <a href="https://github.com/RustyTake-Off/RustyTake-Off"><img alt="Glowing Star" align="center" width="24" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" /></a>
   <a href="https://github.com/RustyTake-Off/RustyTake-Off">@RustyTake-Off</a>
 </div>
