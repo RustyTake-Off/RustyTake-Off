@@ -37,7 +37,7 @@
 ### 📊 Stats
 
 <div align="center">
-  <a href="#" style="padding-right:10px">
+  <a href="#">
     <img title="Commit Streak" alt="Commit Streak" src="https://github-readme-streak-stats.herokuapp.com?user=RustyTake-Off&border_radius=22&date_format=j%2Fn%5B%2FY%5D&mode=daily&type=svg&background=0D1117&border=30363D&stroke=BE4D25&ring=35FF00&fire=FF0000&currStreakNum=FFFFFF&sideNums=35FF00&currStreakLabel=BE4D25&sideLabels=BE4D25&dates=FFFFFF" />
   </a>
   <a href="#">
@@ -50,6 +50,6 @@
 <!-- .footer -->
 
 <div align="left">
-  <a href="https://github.com/RustyTake-Off/RustyTake-Off"><img alt="Glowing Star" align="center" width="24" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" /></a>
+  <a href="https://github.com/RustyTake-Off/RustyTake-Off"><img title="Glowing Star" alt="Glowing Star" align="center" width="24" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" /></a>
   <a href="https://github.com/RustyTake-Off/RustyTake-Off">@RustyTake-Off</a>
 </div>
