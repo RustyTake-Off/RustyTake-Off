@@ -8,7 +8,7 @@
   <a href="#"><img title="Hi" alt="Hi" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=62&duration=1000&pause=3000&color=BE4D25&background=FFFFFF00&center=true&vCenter=true&random=true&width=400&height=100&lines=Hi;Cze%C5%9B%C4%87;Salut;Hola;Oi;Jambo;%EC%95%88%EB%85%95;%E3%82%84%E3%81%82;%E4%BD%A0%E5%A5%BD;G'day" /></a>
 </div>
 
-<a href="https://www.linkedin.com/in/maciejzeman"><img title="LinkedIn" alt="LinkedIn" width="32px" style="padding-right:10px;" src="./docs/media/linkedin.svg" /></a>
+<!-- <a href="https://www.linkedin.com/in/maciejzeman"><img title="LinkedIn" alt="LinkedIn" width="32px" style="padding-right:10px;" src="./docs/media/linkedin.svg" /></a> -->
 <a href="https://github.com/RustyTake-Off"><img title="GitHub" alt="GitHub" width="32px" src="./docs/media/github.svg" /></a>
 
 ---
