@@ -61,7 +61,7 @@
 
 <div>
   <a href="https://github.com/RustyTake-Off/RustyTake-Off">
-    <img title="Glowing Star" width="24" alt="Glowing Star" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" />
+    <img title="Glowing Star" width="24" align="center" alt="Glowing Star" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" />
   </a>
   <a href="https://github.com/RustyTake-Off/RustyTake-Off">@RustyTake-Off</a>
 </div>
