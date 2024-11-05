@@ -13,6 +13,7 @@
 
 <div>
   <a href="https://github.com/RustyTake-Off"><img title="GitHub" width="38px" alt="GitHub" src="./docs/images/github.svg" /></a>
+  <a href="https://huggingface.co/RustyTake-Off"><img title="HuggingFace" width="38px" alt="HuggingFace" src="./docs/images/huggingface.svg" /></a>
 </div>
 
 ---
